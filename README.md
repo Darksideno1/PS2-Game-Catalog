@@ -6,9 +6,9 @@ A portable Windows application for browsing PlayStation 2 games and managing you
 
 ## Download
 
-The USER portable ZIP is distributed through [GitHub Releases](https://github.com/Darksideno1/PS2-Game-Catalog/releases).
+**[⬇ Download PS2 Game Catalog USER v0.1 BETA (69.5 MB)](https://github.com/Darksideno1/PS2-Game-Catalog/releases/download/v0.1.0-beta/PLAYSTATION_2_GAME_LIBRARY_USER_v0.1_BETA.zip)**
 
-**Public release pending:** The first downloadable release is being prepared. Only the USER package will be published in this repository.
+[View release details and release notes](https://github.com/Darksideno1/PS2-Game-Catalog/releases/tag/v0.1.0-beta). The public download contains the standalone USER application only; the private ADMIN package is not distributed here.
 
 **File:** `PLAYSTATION_2_GAME_LIBRARY_USER_v0.1_BETA.zip`  
 **System:** Windows 10 / 11, 64-bit  
@@ -28,7 +28,7 @@ The USER portable ZIP is distributed through [GitHub Releases](https://github.co
 
 ## Getting Started
 
-1. Download the **USER** ZIP from [Releases](https://github.com/Darksideno1/PS2-Game-Catalog/releases).
+1. [Download the USER v0.1 BETA ZIP](https://github.com/Darksideno1/PS2-Game-Catalog/releases/download/v0.1.0-beta/PLAYSTATION_2_GAME_LIBRARY_USER_v0.1_BETA.zip).
 2. Extract the **entire** ZIP into a folder where you have write permission, for example `C:\Games\PS2-Game-Catalog\`.
 3. Launch `USER\PlayStation2GameLibrary.exe`.
 4. The game catalog is initialized on first launch; your personal collection is stored locally.
